@@ -36,17 +36,14 @@ h1{
   font-size: 80px;
   margin-bottom: 30px;
 }
-
 h2{
   padding-top: 10px;
   padding-bottom: 10px;
 }
-
 #firstText{
   padding-bottom:40px;
   border-bottom: 5px grey solid;
 }
-
 radio{
   height: 30px;
   width: 30px;
@@ -58,14 +55,12 @@ radio{
   border:grey solid 2px;
 }
 .forQuestions{
-
   text-align: left;
   font-size: 20px;
   display:block;
   margin: 20px 0 0 20px;
 }
 .forCheckQuestions{
-  
   margin-right: 20px;
   font-size: 20px;
   line-height: 2.9em;
@@ -113,6 +108,7 @@ radio{
   font-size: 30px;
   padding:50px;
 }
+/*Färgerna som poängen får beroende på resultatet*/
 #red{
   color: red;
 }
@@ -137,6 +133,7 @@ strong{
   padding: 10px;
   border-radius: 10px;
 }
+/*Listan med rätt resultat förblir densamma*/
 ul{
   color: lightgrey; 
   margin-top:20px;
